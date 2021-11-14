@@ -58,7 +58,7 @@ function App() {
           
           <>
         <div class="container" id="container">
-         <h1>Add profile photo</h1>
+      
          <>
          <article className="mainT">
          
